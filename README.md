@@ -9,7 +9,14 @@
 - 💪🏼 Future goal: Learn more technology - Constantly generate new ideas for topics on AI: NLP, Image Processing.
 
 ---
+##### Future I want to learn
+- [Advanced] Machine Learning, SQL(hackerrank), Python /R.
+- Excel.
+- Data Governance.
+- Pyspark, NLP, PowerBI
+- JP and EN
 
+---
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
