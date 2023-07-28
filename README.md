@@ -18,8 +18,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/rafael-azizov-3612391b2/](https://vn.linkedin.com/in/vuong-tran-dinh-minh-649ba4205)"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vuongsky55.cv@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/rafael-azizov-3612391b2/](https://vn.linkedin.com/in/vuong-tran-dinh-minh-649ba4205)"></a>
+<a href="vuongsky55.cv@gmail.com"><img src="https://img.shields.io/badge/-vuongsky55.cv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 ---
 ### ⚙️ &nbsp;GitHub Analytics
