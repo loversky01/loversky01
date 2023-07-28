@@ -1,24 +1,20 @@
 ### Hi there 👋 I'm [Trần Đình Minh Vương (Lover Sky - Vuong Tran)!](https://github.com/loversky01/loversky01/)
-
+---
+### 🤝🏻 &nbsp;Connect with Me
+- Gmail : vuongsky55.cv@gmail.com
+- Linkedin: https://vn.linkedin.com/in/vuong-tran-dinh-minh-649ba4205
+---
 ## I'm a Student at Electric Power University
 
 - 👨‍💻 I used to work on data mining and machine learning projects using python.
 - 📚 Learning everything about AI and Backend technologies 😅
-- 💪🏼 Future goal: Learn more technology - Constantly generate new ideas for topics on AI: NLP, Image Processing.
-
 ---
-##### Future I want to learn
+##### 💪🏼 Future goal: Learn more technology - Constantly generate new ideas for topics on AI: NLP, Image Processing.
 - [Advanced] Machine Learning, SQL(hackerrank), Python /R.
 - Excel.
 - Data Governance.
 - Pyspark, NLP, PowerBI
 - JP and EN
-
----
-### 🤝🏻 &nbsp;Connect with Me
-- Gmail : vuongsky55.cv@gmail.com
-- Linkedin: https://vn.linkedin.com/in/vuong-tran-dinh-minh-649ba4205
-
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
