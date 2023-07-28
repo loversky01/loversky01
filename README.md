@@ -16,7 +16,8 @@
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me
-
+- Gmail : vuongsky55.cv@gmail.com
+- Linkedin: https://vn.linkedin.com/in/vuong-tran-dinh-minh-649ba4205
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
