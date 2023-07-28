@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Vuong!](https://github.com/loversky01/loversky01/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a Student at Electric Power University
 
 - 👨‍💻 I used to work on data mining and machine learning projects using python.
