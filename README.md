@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Vuong!](https://github.com/loversky01/loversky01/)
+### Hi there 👋 I'm [Trần Đình Minh Vương(Lover Sky - Vuong Tran)!](https://github.com/loversky01/loversky01/)
 
 ## I'm a Student at Electric Power University
 
